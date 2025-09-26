@@ -1,0 +1,39 @@
+# Archivos y carpetas que Unity puede regenerar
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Oo]bj/
+
+# Configuración de usuario (no necesaria para otros)
+UserSettings/
+.vscode/
+.idea/
+.vs/
+
+# Archivos de compilación de C#
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Crash logs y reportes
+sysinfo.txt
+
+# Cache de Unity
+*.apk
+*.aab
+*.unitypackage
+
+# Ignorar compilaciones exportadas
+[Bb]uild/
